@@ -1,0 +1,15 @@
+meatpizza;MP01;28.5;Diavola;32;tomato,cheese,pepperoni,salami;pepperoni,salami
+meatpizza;MP02;29.0;Carnivora;30;tomato,cheese,ham,bacon,chorizo;ham,bacon,chorizo
+vegetarianpizza;VP01;25.0;Margherita;30;tomato,cheese,basil;true
+vegetarianpizza;VP02;26.5;Vegetale;32;tomato,cheese,pepper,olive,mushroom;true
+veganpizza;VG01;27.0;Green Garden;30;tomato,zucchini,eggplant,olive;false
+veganpizza;VG02;27.5;Vegan Special;32;tomato,spinach,broccoli,corn;true
+sidedish;SD01;8.5;Fries;Large Fries
+sidedish;SD02;9.0;Wedges;Potato Wedges
+sidedish;SD03;7.5;Nuggets;Cheese Nuggets
+sauce;SC01;2.5;Garlic
+sauce;SC02;2.0;Tomato
+sauce;SC03;3.0;Spicy Mayo
+drink;DR01;6.0;500;false;Coca-Cola
+drink;DR02;7.5;330;true;Craft Beer
+drink;DR03;5.0;500;false;Mineral Water
